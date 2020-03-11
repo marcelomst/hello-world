@@ -1,2 +1,4 @@
 # hello-world
-Repositorio ara aprender github, almecenar ideas, recursos, etc.
+Repositorio para aprender github, almacenar ideas, recursos, etc.
+Hola!
+Hice algunas correcciones en la faltas de ortografia.
